@@ -1,0 +1,15 @@
+{
+  "name": "@derambakht/custom-pipes",
+  "version": "0.0.1",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.",
+  "main": "karma.conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
