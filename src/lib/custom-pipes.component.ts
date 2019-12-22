@@ -3,9 +3,9 @@ import { Component, OnInit } from '@angular/core';
 @Component({
   selector: 'lib-custom-pipes',
   template: `
-    <p>
+    <h1>
       custom-pipes works!
-    </p>
+    </h1>
   `,
   styles: []
 })
